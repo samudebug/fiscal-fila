@@ -1,0 +1,23 @@
+{
+  "name": "fiscal-fila",
+  "version": "1.0.0",
+  "description": "Bot de gerenciamento de fila em Canais de voz no discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .\\index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samudebug/fiscal-fila.git"
+  },
+  "author": "Samuel Martins (crisdebug)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samudebug/fiscal-fila/issues"
+  },
+  "homepage": "https://github.com/samudebug/fiscal-fila#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
